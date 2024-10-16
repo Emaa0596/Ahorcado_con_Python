@@ -1,0 +1,122 @@
+[
+    {
+        "tema": "programacion",
+        "palabras": [
+            "variable",
+            "memoria",
+            "archivos",
+            "algoritmo",
+            "depuracion",
+            "funcion",
+            "clase",
+            "compilador",
+            "debugger",
+            "codigo"
+        ]
+    },
+    {
+        "tema": "matematica",
+        "palabras": [
+            "numero",
+            "ecuacion",
+            "suma",
+            "geometria",
+            "fraccion",
+            "derivada",
+            "integral",
+            "angulo",
+            "teorema",
+            "estadistica"
+        ]
+    },
+    {
+        "tema": "deporte",
+        "palabras": [
+            "basquet",
+            "futbol",
+            "rugby",
+            "natacion",
+            "atletismo",
+            "tenis",
+            "baloncesto",
+            "ciclismo",
+            "voleibol",
+            "boxeo"
+        ]
+    },
+    {
+        "tema": "naturaleza",
+        "palabras": [
+            "bosque",
+            "llanura",
+            "oceano",
+            "flora",
+            "fauna",
+            "ecosistema",
+            "cascada",
+            "desierto",
+            "biologia",
+            "clima"
+        ]
+    },
+    {
+        "tema": "ciencia",
+        "palabras": [
+            "experimento",
+            "laboratorio",
+            "teoria",
+            "invento",
+            "quimica",
+            "biologia",
+            "fisica",
+            "genetica",
+            "astronomia",
+            "evolucion"
+        ]
+    },
+    {
+        "tema": "paises",
+        "palabras": [
+            "Argentina",
+            "Francia",
+            "Australia",
+            "Mexico",
+            "Japon",
+            "Brasil",
+            "Canada",
+            "Italia",
+            "India",
+            "Sudafrica"
+        ]
+    },
+    {
+        "tema": "partes del cuerpo",
+        "palabras": [
+            "cerebro",
+            "corazon",
+            "estomago",
+            "huesos",
+            "piel",
+            "musculos",
+            "pulmones",
+            "intestino",
+            "oidos",
+            "nariz"
+        ]
+    },
+    {
+        "tema": "musica",
+        "palabras": [
+            "melodia",
+            "ritmo",
+            "cancion",
+            "instrumento",
+            "concierto",
+            "opera",
+            "acorde",
+            "partitura",
+            "canto",
+            "bailar"
+        ]
+    }
+]
